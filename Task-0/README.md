@@ -1,7 +1,7 @@
 # Task Completion Details Task-0 
 
 <br>
-<h2 align="center">Connection ssh</h2>
+<h2 align="center">Desktop</h2>
 
 ### Example commands
 
@@ -11,7 +11,7 @@ $ eval "$(ssh-agent -s)"
 $ ssh-add ~/.ssh/id_rsa
 ```
 <kbd>
-    <img src="../Images/Screenshot-3.png" width="700px" title="Connection ssh">
+    <img src="../Screenshot/Desktop.png" width="700px" title="Desktop">
 </kbd>
     
 <br>
@@ -52,7 +52,7 @@ else:
 <em><p align="left">Screenshots of program execution are shown below:</p></em>
 
 <kbd>
-    <img src="../Images/Screenshot-1_Task-1.png" width="700px" title="Task-0">
+    <img src="../Screenshot/Screenshot-1_Task0_1.png" width="700px" title="Task-0">
 </kbd>
  
 <br>
@@ -114,5 +114,5 @@ print('Couple:', None if len(res) == 0 else res)
 <em><p align="left">Screenshots of program execution are shown below:</p></em>
 
 <kbd>
-    <img src="../Images/Screenshot-2_Task-2.png" width="700px" alt="Task-1">
+    <img src="../Screenshot/Screenshot-2_Task0_2.png" width="700px" alt="Task-1">
 </kbd>
