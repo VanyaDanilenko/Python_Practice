@@ -114,5 +114,5 @@ print('Couple:', None if len(res) == 0 else res)
 <em><p align="left">Screenshots of program execution are shown below:</p></em>
 
 <kbd>
-    <img src="../Screenshot/Screenshot-2_Task0_2.png" width="700px" alt="Task-1">
+    <img src="../Screenshot/Task0_2.png" width="700px" alt="Task0_2">
 </kbd>
