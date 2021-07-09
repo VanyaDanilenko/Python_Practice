@@ -5,7 +5,7 @@
 
 <p align="left">1. Copy url:</p>
 <kbd>
-    <img src="../Images/Task-1_2.png" width="700px" alt="Task-1">
+    <img src="../Screenshot/Task1_2.png" width="700px" alt="Task1_1">
 </kbd>
 
 <br>
@@ -16,11 +16,11 @@
 ### Example command
 
 ```shell
-$ git clone https://github.com/sergden2021/python-practice.git
+$ git clone https://github.com/VanyaDanilenko/Python_Practice.git
 ```
 
 <kbd>
-    <img src="../Images/Task-1_2.1.png" width="700px" alt="Task-1">
+    <img src="../Screenshot/Task1_2.png" width="700px" alt="Task1_1">
 </kbd>
 
 <br>
@@ -83,6 +83,6 @@ print('----------   Done!   ----------')
 <em><p align="left">An example of running a program with three different introductory sentences:</p></em>
 
 <kbd>
-    <img src="../Images/Task-1_1-1.png" width="700px" alt="Task-1">
+    <img src="../Screenshot/Task1_1.png" width="700px" alt="Task1_1">
 </kbd>
 
