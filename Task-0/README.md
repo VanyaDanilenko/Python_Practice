@@ -52,7 +52,7 @@ else:
 <em><p align="left">Screenshots of program execution are shown below:</p></em>
 
 <kbd>
-    <img src="../Screenshot/Screenshot-1_Task0_1.png" width="700px" title="Task-0">
+    <img src="../Screenshot/Task0_1.png" width="700px" title="Task0_1">
 </kbd>
  
 <br>
