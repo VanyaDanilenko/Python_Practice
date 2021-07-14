@@ -81,7 +81,7 @@ class Main(QtWidgets.QMainWindow):
 
 
         def goToSite():
-            webbrowser.open('https://github.com/sergden2021/python-practice', new=2)
+            webbrowser.open('https://github.com/VanyaDanilenko', new=2)
 
         def refreshButton_clicked():
             fillingTable()
