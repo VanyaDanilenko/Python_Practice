@@ -24,6 +24,7 @@ $ pyuic5 C19.ui -o C19.py
 
 ```python
 from os import pread
+from googletrans import Translator
 from PyQt5 import QtWidgets, QtGui, uic, QtCore, QtSerialPort
 from PyQt5.QtWidgets import QApplication, QHBoxLayout, QTableView, QWidget, QLabel, QPushButton, QMessageBox, QDialog, QInputDialog, QFileDialog, QLineEdit
 from PyQt5.QtGui import QIcon, QPixmap, QImage, QCursor, QPalette, QColor, QStandardItem, QStandardItemModel
@@ -105,7 +106,7 @@ class Main(QtWidgets.QMainWindow):
 
 
         def goToSite():
-            webbrowser.open('https://github.com/sergden2021/python-practice', new=2)
+            webbrowser.open('https://github.com/VanyaDanilenko', new=2)
 
         def refreshButton_clicked():
             fillingTable()
