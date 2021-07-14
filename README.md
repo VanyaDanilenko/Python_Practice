@@ -5,5 +5,5 @@
 <p align="left">Welcome to the club buddy</p>
 
 <kbd>
-    <img src="../Screenshot/Python_0.png" width="700px" alt="Python">
+    <img src="../Screenshot/Python_0.jpg" width="700px" alt="Python">
 </kbd>
