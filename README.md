@@ -4,6 +4,4 @@
 
 <p align="left">Welcome to the club buddy</p>
 
-<kbd>
-    <img src="../Screenshot/Python_0.pdf" width="700px" alt="Python">
-</kbd>
+![Image alt](https://github.com/VanyaDanilenko/GetKnig/blob/main/Screenshot/Python_0-1.png)
