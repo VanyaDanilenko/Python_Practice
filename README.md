@@ -1,3 +1,4 @@
+[Python_0.pdf](https://github.com/VanyaDanilenko/Python_Practice/files/6817677/Python_0.pdf)
 # Python_Practice
 
 <br>
